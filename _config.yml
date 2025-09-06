@@ -1,0 +1,18 @@
+title: Prerna Luthra
+description: Personal homepage & notes
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/luthraprerna" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/prerna-luthra-357009a2" }
+    - { platform: x,        user_url: "https://x.com/preluthra" }
+author:
+  name: Prerna Luthra
+  email: pl2243@nyu.edu
+# If you use a custom domain, create a CNAME file at repo root with that domain.
+# url: "https://yourdomain.com"
+# baseurl: ""  # leave empty for username.github.io root
