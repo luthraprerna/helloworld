@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <figure style="text-align:center">
-  <img src="/assets/prerna.jpg" alt="That's me" width="220" style="border-radius:50%">
+  <img src="/assets/your-photo.jpeg" alt="That's me" width="220" style="border-radius:50%">
   <figcaption><em>Some day I dream of having purple hair… until then, an AI-edited picture works well 💜</em></figcaption>
 </figure>
 
