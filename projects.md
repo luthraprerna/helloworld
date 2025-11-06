@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Projects
+title: Projects and Frameworks
+Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
 permalink: /projects/
 ---
 
-List a few selected projects with short summaries and links.
-
-- **Project One** — one‑liner description. [Repo](https://github.com/your-username/project-one) · [Demo](#)
-- **Project Two** — one‑liner description. [Paper](#) · [Site](#)
-- **Project Three** — one‑liner description.
+Here I list some of the projects and frameworks:
+- **One** —  What if humans and AI could have a shared language for creativity? Here's a 4-world framework as an early step. [Paper](https://arxiv.org/abs/2509.24326)
+- **Two** — Ever wondered, how do you organize all the data in the world? Welcome to [Multi-layer Earth Intelligence Framework](helloworld/assets/MultiLayerEarthIntelligenceFramework.pdf). [Abstract](helloworld/assets/MLEIF)
+- **Three** — Are monolithic models ideal for Perceptual AI? [Abstract](helloworld/assets/Perceptual_AI)
+- **Four** — Can AI help detect long COVID in patients from lung MRI scans? [Project](https://www.proquest.com/openview/b582a495804568945dd026c91a2e1154/1?pq-origsite=gscholar&cbl=18750&diss=y)
