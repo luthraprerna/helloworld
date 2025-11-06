@@ -12,7 +12,7 @@ title: Home
 
 I began as a software engineer at **IBM Watson** in New York City (2016–2023), then wandered into academia as a researcher at **New York University** (2023–2024). Eventually I packed my bags and moved ~7,800 miles to India (and no, not because of Trump 😅). Now you’ll find me in Bengaluru as an **Entrepreneur-in-Residence at Evam Labs**.  
 
-### Highlights
+---
 - 👉 See my [Projects and Frameworks](/helloworld/projects).
 ---
 
