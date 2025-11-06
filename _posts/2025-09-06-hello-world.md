@@ -1,7 +1,5 @@
 ---
 layout: post
-title:  "Hello, world"
+title:  [Projects and Frameworks](/helloworld/projects)
 categories: updates
 ---
-
-First post on my new site. Replace this with notes, essays, or project logs.

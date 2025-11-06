@@ -23,7 +23,3 @@ I began as a software engineer at **IBM Watson** in New York City (2016–2023),
 - 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
 - 🐦 X: [@preluthra](https://x.com/preluthra)
 - 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)  
-
-
-
-
