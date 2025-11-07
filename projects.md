@@ -10,4 +10,4 @@ Here I list some of the projects and frameworks:
 - **Two — Ever wondered, how do you organize all the data in the world?** Welcome to [Multi-layer Earth Intelligence Framework](assets/MultiLayerEarthIntelligenceFramework.pdf). [Abstract](assets/MLEIF.png)
 - **Three — Are monolithic models ideal for Perceptual AI?** [Abstract](assets/Perceptual_AI.png)
 - **Four — Can AI help detect long COVID in patients from lung MRI scans?** [Project](https://www.proquest.com/openview/b582a495804568945dd026c91a2e1154/1?pq-origsite=gscholar&cbl=18750&diss=y)
-- **Five — Can you use neural networks to model attention in the human auditory system** as a part of **Grace Lindsay's** Lab [Project](https://github.com/Lindsay-Lab/auditory-attention)
+- **Five — Can you use neural networks to model attention in the human auditory system**? Pursued as a part of **Grace Lindsay's** Lab @ NYU [Project](https://github.com/Lindsay-Lab/auditory-attention)
