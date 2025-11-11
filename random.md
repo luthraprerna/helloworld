@@ -25,7 +25,7 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
       <img src="/helloworld/assets/thumb2.png" width="200" style="border-radius:12px">
     </a>
     <figcaption style="font-size:0.9em; margin-top:5px;">
-      A short video for the Make My Trip feature pitch I created. As the tagline says: "The best journeys aren't planned.
+      A short video for the Make My Trip feature pitch I created. As the tagline says: "The best journeys are the ones you ever knew existed!"
     </figcaption>
   </figure>
 </div>
