@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Random Fun Stuff
-permalink: /helloworld/random/
+permalink: /random/
 ---
 
 # 🎉 Random Fun Stuff
