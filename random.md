@@ -66,7 +66,7 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
   <!-- Poem Video 2 -->
   <figure style="text-align:center; margin:0;">
     <a href="/helloworld/assets/Poem2.mp4" target="_blank">
-      <img src="/helloworld/assets/poemthumb2.png" width="200" style="border-radius:12px">
+      <img src="/helloworld/assets/poem_thumb2.png" width="200" style="border-radius:12px">
     </a>
     <figcaption style="font-size:0.9em; margin-top:5px;">
       This feels like home!
