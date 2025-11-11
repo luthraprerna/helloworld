@@ -9,6 +9,7 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
 ---
 
 ## 🎬 Videos I Made ...
+> Click on the thumbnails to watch the videos.
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; margin-bottom:40px;">
   <figure style="text-align:center; margin:0;">
@@ -31,11 +32,12 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
 </div>
 
 
-> Click on the thumbnails to watch the videos.
+
 
 ---
 
 ## 🎨 Artwork
+> Some of my artwork
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; margin-bottom:40px;">
   <img src="/helloworld/assets/AB1.jpg" width="200" style="border-radius:12px">
@@ -44,7 +46,7 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
   <img src="/helloworld/assets/Oil_Paint.jpg" width="200" style="border-radius:12px">
 </div>
 
-> Some of my artwork
+
 
 ---
 
