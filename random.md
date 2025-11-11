@@ -8,7 +8,7 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
 
 ---
 
-## 🎬 Videos I Made / Found Interesting
+## 🎬 Videos I Made ...
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; margin-bottom:40px;">
   <figure style="text-align:center; margin:0;">
