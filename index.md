@@ -15,6 +15,7 @@ I began as a software engineer at **IBM Watson** in New York City (2016–2023),
 
 ### 👉 See my [Projects and Frameworks](/helloworld/projects).
 
+### 🎉 Check out my [Random Fun Stuff](/helloworld/random/) page of random videos/hobby dump.
 
 - 📍 Location: Bengaluru, India / Delhi, India
 - ✉️ Email: pl2243@nyu.edu  
