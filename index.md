@@ -18,7 +18,7 @@ I began as a software engineer at **IBM Watson** in New York City (2016–2023),
 ### 🎉 Check out my [Random Fun Stuff](/helloworld/random/) page of random videos/hobby dump.
 
 - 📍 Location: Bengaluru, India / Delhi, India
-- ✉️ Email: pl2243@nyu.edu  
+- ✉️ Email: prernaluthra996@gmail.com
 - 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2)  
 - 🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
 - 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
