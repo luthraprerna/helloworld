@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects and Frameworks
+title: 🎓 Research Projects & Frameworks
 permalink: /projects/
 ---
 **Google Scholar**: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
