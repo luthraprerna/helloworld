@@ -132,6 +132,6 @@ Guess you got the message.
 If you follow this, your life will become **pressure-free and dog-free**  -   
 but at the same time, be ready to sometimes **stand alone**.
 
-When that moment comes, embrace Dwarika Prasad Maheshwari’s words:
+When that moment comes, embrace Dwarika Prasad Maheshwari’s poem:
 **“Veer tum badhe chalo, Dheer tum badhe chalo.”**  
 *(Translation: “Brave one, keep marching forward! Patient one, keep moving ahead!”)*
