@@ -52,10 +52,8 @@ So my request to you:
 
 *Have the courage to walk your own path.*
 
-And just to be clear - in this blog, I am not going to talk about why society judges you or fear of judgment or any such cliché explanations.
+And just to be clear - in this blog, I am not going to talk about why society judges you or any such cliché explanations.
 **In this blog I’m here to tell you *how to resist pressure*.**
-
----
 
 # How to Resist Social Pressure
 
@@ -104,14 +102,10 @@ reply: **“You seem really worried. How about putting at least a million dollar
 
 Savage humor protects your sanity and sets boundaries without aggression.
 
+
 ---
 
-# Closing Thought
-
-Resisting social pressure isn’t arrogance.  
-It’s clarity.  
-It’s courage.  
-It’s self-respect.
+Resisting social pressure isn’t arrogance. It’s clarity. It’s courage. It’s self-respect.
 
 The world will always impose scripts, timelines, and expectations, but the most fulfilling life is the one you carve intentionally.
 
@@ -128,7 +122,7 @@ My mom looked at me and said:
 
 Guess you got the message.
 
----
+
 
 ## ⚠️ WARNING
 
