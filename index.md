@@ -19,10 +19,10 @@ I began as a software engineer at **IBM Watson** in New York City (2016–2023),
 
 ### 🚀 Check out some [Product Feature Demos](/helloworld/product/) I created
 
-- 📍 Location: Bengaluru, India / Delhi, India
+<!-- - 📍 Location: Bengaluru, India / Delhi, India
 - ✉️ Email: prernaluthra996@gmail.com
 - 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2)  
 - 🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
 - 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
 - 🐦 X: [@preluthra](https://x.com/preluthra)
-- 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)  
+- 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)   -->
