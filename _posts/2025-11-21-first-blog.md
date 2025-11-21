@@ -38,7 +38,7 @@ To those who try especially hard to bend others, I want to ask:
 
 The world is massive, with billions of people - each with different traits, upbringing, psychology, wiring, and influences. Yet somehow, everyone is expected to follow the **exact same script**.
 
-I once asked a professor (a very famous one: name),  
+I once asked a professor (a very famous one; I’ll share the name after getting permission),  
 **“Sir, what’s unique about people who are creative and innovative?”**  
 He said, **“Pagal hote hain thode.”**  
 *(Translation: “They’re a little crazy.”)*
