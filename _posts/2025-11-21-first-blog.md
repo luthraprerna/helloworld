@@ -102,16 +102,13 @@ reply: **“You seem really worried. How about putting at least a million dollar
 
 Savage humor protects your sanity and sets boundaries without aggression.
 
-
----
+## Final Conclusion
 
 Resisting social pressure isn’t arrogance. It’s clarity. It’s courage. It’s self-respect.
 
 The world will always impose scripts, timelines, and expectations, but the most fulfilling life is the one you carve intentionally.
 
 **Embrace your madness. Trust your compass. Walk your weird path.**
-
----
 
 ## Words of Gold From My Mother
 
@@ -122,12 +119,9 @@ My mom looked at me and said:
 
 Guess you got the message.
 
-
-
 ## ⚠️ WARNING
 
-If you follow this, your life will become **pressure-free and dog-free**  -   
-but at the same time, be ready to sometimes **stand alone**.
+If you follow this, your life will become **pressure-free and dog-free** but at the same time, be ready to sometimes **stand alone**.
 
 When that moment comes, embrace Dwarika Prasad Maheshwari’s poem:
 **“Veer tum badhe chalo, Dheer tum badhe chalo.”**  
