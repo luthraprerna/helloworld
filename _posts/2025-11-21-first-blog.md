@@ -25,6 +25,11 @@ If you don’t bend to their notions, they’ll try to make you bend.
 
 To these people, I want to ask:
 
+<p align="center">
+  <img src="/helloworld/assets/blog1_1.gif" alt="Geet from the movie Jab We Met">
+</p>
+
+
 **“Excuse me… aapse puchna tha, aap jo ye bol rahe hai, iske paise charge karte hai ya ye muft ka gyaan hai?”**  
 *(Translation: “Excuse me… do you charge money for this advice or is it free wisdom?”)*
 
@@ -46,8 +51,8 @@ So my request to you:
 
 Have the courage to walk your own path.
 
-And just to be clear  -  **in this blog, I am not going to talk about why society judges you or fear of judgment or any such cliché explanations.**  
-**Sorry  -  in this blog I’m here to tell you *how to resist pressure*.**
+And just to be clear - in this blog, I am not going to talk about why society judges you or fear of judgment or any such cliché explanations.
+**In this blog I’m here to tell you *how to resist pressure*.**
 
 ---
 
@@ -94,7 +99,9 @@ reply: **“Sir, main yahan kisi ko maze dene nahi aayi.”**
 If someone says, **“Others are raising money faster than you,”**  
 reply: **“Seems like you’re interested in investing. Cool  -  how much will you invest?”**
 
-These replies shock the other party and they almost feel embarrassed to ask you anything further.
+Mic-drop. Silence. Game over.
+
+Savage humor protects your sanity and sets boundaries without aggression.
 
 ---
 
