@@ -14,16 +14,14 @@ Another friend, is desperately trying to find a life partner. She dates people i
 She says, **“Yaar, meri umar ho rahi hai, sab pooch rahe hain, parents ka bhi bohot pressure hai.”**  
 *(Translation: “I’m getting older, everyone is asking, and there is huge pressure from parents too.”)*
 
-An older colleague recently resigned from her job. She doesn’t feel the need to immediately find another one—she wants time off. She’s fully independent, financially stable, and can support her child. Yet her colleagues ask, **“Oh you've not found your next step? Career breaks aren't ideal”**  
-Suddenly, she doubts herself, wondering, **“What if they’re right? What if I don’t find a job?”**
+An older colleague recently resigned from her job. She doesn’t feel the need to immediately find another one - she wants time off. She’s fully independent, financially stable, and can support her child. Yet her colleagues ask, **“Oh you've not found your next step? Career breaks aren't ideal”**  
+Suddenly, she doubts herself, wondering, **“What if they’re right?”**
 
 ### Here’s what becomes clear
 
-Most people are following a script - school → job → marriage → kids → milestones → repeat.  
-Society, peers, family, and social media constantly reinforce it.  
-If you don’t bend to their notions, they’ll try to make you bend.
+Most people are following a script - school → job → marriage → kids → milestones → repeat. Society, peers, family, and social media constantly reinforce it. If you don’t bend to their notions, they’ll try to make you bend.
 
-To these people, I want to ask:
+To those who try especially hard to bend others, I want to ask:
 
 <p align="center">
   <img src="/helloworld/assets/blog1_1.gif" alt="Geet from the movie Jab We Met">
@@ -88,18 +86,18 @@ If the advice:
 
 … then treat it like **trash**  -  **disposable**.
 
-### Step 3: Respond with Savage Humor
+### Step 3: Respond with Dry, Savage & Machete Humor
 
 If you sense they are gossipers or just projecting on you, use humor to flip the script.
 
-If someone says, **“You don’t attend parties; your boss won’t support you,”**  
+If someone says, **“Boss doesn't like you anymore because you don’t seem to agree with everything they say,”**  
 reply: **“Sir, main yahan kisi ko maze dene nahi aayi.”**  
 *(Translation: “I’m not here to entertain anyone.”)*
 
 If someone says, **“Others are raising money faster than you,”**  
-reply: **“Seems like you’re interested in investing. Cool  -  how much will you invest?”**
+reply: **“You seem really worried. How about putting at least a million dollars into my company?”**
 
-Mic-drop. Silence. Game over.
+**Mic-drop. Silence. Game over.**
 
 Savage humor protects your sanity and sets boundaries without aggression.
 
