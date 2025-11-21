@@ -8,9 +8,9 @@ I’ve been talking to friends and colleagues recently, and their struggles with
 
 One friend wants to stay underground with his startup. He’s not in a rush to raise money because he wants to understand the market fully. Yet, whenever he talks to people, the question is always, **“When will you raise money?”** The pressure to follow a predefined timeline weighs heavily on him.
 
-A younger colleague often compares himself to those around him. **“Everyone else seems to know what they’re doing,”** he says. He’s tried multiple paths, yet nothing seems to stick. Watching others meet societal milestones - stable jobs, marriage, clear life plans - he feels lost and uncertain about his own path.
+A younger colleague often compares himself to those around him. **“Everyone else seems to know what they’re doing”** he says. He’s tried multiple paths, yet nothing seems to stick. Watching others meet societal milestones - stable jobs, marriage, clear life plans - he feels lost and uncertain about his own path.
 
-Another friend, 30, is desperately trying to find a life partner. She dates people in and out, exhausted, yet believes her life isn’t complete without marriage. The pressure of hitting societal “checkpoints” makes her feel behind, even though she’s living life on her own terms in many ways.  
+Another friend, is desperately trying to find a life partner. She dates people in and out, exhausted, yet believes her life isn’t complete without marriage. The pressure of hitting societal “checkpoints” makes her feel behind, even though she’s living life on her own terms in many ways.  
 She says, **“Yaar, meri umar ho rahi hai, sab pooch rahe hain, parents ka bhi bohot pressure hai.”**  
 *(Translation: “I’m getting older, everyone is asking, and there is huge pressure from parents too.”)*
 
@@ -40,14 +40,14 @@ To these people, I want to ask:
 
 The world is massive, with billions of people - each with different traits, upbringing, psychology, wiring, and influences. Yet somehow, everyone is expected to follow the **exact same script**.
 
-I once asked a professor,  
+I once asked a professor (a very famous one: name),  
 **“Sir, what’s unique about people who are creative and innovative?”**  
 He said, **“Pagal hote hain thode.”**  
 *(Translation: “They’re a little crazy.”)*
 
 So my request to you:  
-**“Thode pagal bano.”**  
-*(Translation: “Be a little crazy.”)*
+**“Thode pagal bano. Embrace Your Eccentricity”**  
+*(Translation: “Be a little crazy. Embrace Your Eccentricity.”)*
 
 Have the courage to walk your own path.
 
