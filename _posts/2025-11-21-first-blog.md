@@ -81,9 +81,9 @@ When someone comments or judges your choices:
 If someone is genuinely supportive (parents, real friends, mentors), listen carefully but still filter everything through your internal compass.
 
 If the advice:  
-❌ isn’t coming from someone who matters  
-❌ doesn’t affect them  
-❌ isn’t actionable  
+- isn’t coming from someone who matters  
+- doesn’t affect them  
+- isn’t actionable  
 
 … then treat it like **trash** - **disposable**.
 
