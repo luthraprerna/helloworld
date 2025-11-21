@@ -14,7 +14,7 @@ Another friend, is desperately trying to find a life partner. She dates people i
 She says, **“Yaar, meri umar ho rahi hai, sab pooch rahe hain, parents ka bhi bohot pressure hai.”**  
 *(Translation: “I’m getting older, everyone is asking, and there is huge pressure from parents too.”)*
 
-An older colleague recently resigned from her job. She doesn’t feel the need to immediately find another one - she wants time off. She’s fully independent, financially stable, and can support her child. Yet her colleagues ask, **“Oh you've not found your next step? Career breaks aren't ideal”**  
+An older relative recently resigned from her job. She doesn’t feel the need to immediately find another one - she wants time off. She’s fully independent, financially stable, and can support her child. Yet her colleagues ask, **“Oh you've not found your next step? Career breaks aren't ideal”** 
 Suddenly, she doubts herself, wondering, **“What if they’re right?”**
 
 ### Here’s what becomes clear
@@ -25,6 +25,9 @@ To those who try especially hard to bend others, I want to ask:
 
 <p align="center">
   <img src="/helloworld/assets/blog1_1.gif" alt="Geet from the movie Jab We Met">
+    <figcaption style="margin-top: 8px; font-size: 14px; color: #555;">
+    Geet's Dialogue from the Movie Jab We Met (2007)
+  </figcaption>
 </p>
 
 
@@ -84,7 +87,7 @@ If the advice:
 ❌ doesn’t affect them  
 ❌ isn’t actionable  
 
-… then treat it like **trash**  -  **disposable**.
+… then treat it like **trash** - **disposable**.
 
 ### Step 3: Respond with Dry, Savage & Machete Humor
 
