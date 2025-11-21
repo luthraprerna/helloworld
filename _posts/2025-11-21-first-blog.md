@@ -3,7 +3,6 @@ layout: post
 title: "Blog 1: Carving Your Own Path in a World of Followers"
 categories: blog
 ---
-# Carving Your Own Path in a World of Followers
 
 I’ve been talking to friends and colleagues recently, and their struggles with life decisions really stood out.
 
@@ -15,10 +14,8 @@ Another friend, 30, is desperately trying to find a life partner. She dates peop
 She says, **“Yaar, meri umar ho rahi hai, sab pooch rahe hain, parents ka bhi bohot pressure hai.”**  
 *(Translation: “I’m getting older, everyone is asking, and there is huge pressure from parents too.”)*
 
-An older colleague recently resigned from her job. She doesn’t feel the need to immediately find another one - she wants time off. She’s fully independent, financially stable, and can support her child. Yet her parents say, **“Acha khali baithoge?”**  
-*(Translation: “So you’re just going to sit idle?”)*  
+An older colleague recently resigned from her job. She doesn’t feel the need to immediately find another one—she wants time off. She’s fully independent, financially stable, and can support her child. Yet her colleagues ask, **“Oh you've not found your next step? Career breaks aren't ideal”**  
 Suddenly, she doubts herself, wondering, **“What if they’re right? What if I don’t find a job?”**
-
 
 ### Here’s what becomes clear
 
