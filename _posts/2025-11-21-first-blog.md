@@ -110,8 +110,7 @@ It’s clarity.
 It’s courage.  
 It’s self-respect.
 
-The world will always impose scripts, timelines, and expectations  -   
-but the most fulfilling life is the one you carve intentionally.
+The world will always impose scripts, timelines, and expectations, but the most fulfilling life is the one you carve intentionally.
 
 **Embrace your madness. Trust your compass. Walk your weird path.**
 
@@ -122,7 +121,7 @@ but the most fulfilling life is the one you carve intentionally.
 When I was learning to drive, I wasn’t perfect, and people kept honking. I panicked.  
 My mom looked at me and said:
 
-**“Many dogs bark when you cross the street  -  do you stop to explain yourself to every single one?”**  
+**“Many dogs bark when you cross the street, do you stop to explain yourself to every single one?”**  
 
 Guess you got the message.
 
@@ -134,6 +133,5 @@ If you follow this, your life will become **pressure-free and dog-free**  -
 but at the same time, be ready to sometimes **stand alone**.
 
 When that moment comes, embrace Dwarika Prasad Maheshwari’s words:
-
 **“Veer tum badhe chalo, Dheer tum badhe chalo.”**  
-*(Translation: “Brave one, keep marching forward  -  patient one, keep moving forward.”)*
+*(Translation: “Brave one, keep marching forward! Patient one, keep moving ahead!”)*
