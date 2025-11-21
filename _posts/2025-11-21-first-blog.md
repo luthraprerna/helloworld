@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carving Your Own Path in a World of Followers"
+title: "Blog 1: Carving Your Own Path in a World of Followers"
 categories: blog
 ---
 # Carving Your Own Path in a World of Followers
