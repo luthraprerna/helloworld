@@ -47,7 +47,7 @@ So my request to you:
 **“Thode pagal bano. Embrace Your Eccentricity”**  
 *(Translation: “Be a little crazy. Embrace Your Eccentricity.”)*
 
-Have the courage to walk your own path.
+*Have the courage to walk your own path.*
 
 And just to be clear - in this blog, I am not going to talk about why society judges you or fear of judgment or any such cliché explanations.
 **In this blog I’m here to tell you *how to resist pressure*.**
