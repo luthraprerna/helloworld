@@ -66,8 +66,9 @@ Figure out who you are internally not externally. Examples:
 * I like stability and prefer tried-and-tested routes.  
 * I value money, creativity, or adventure.
 
-Define the values you will *never* change to please others.  
+Define the values you will *never* change to please others. *[I'll add a link to the next blog here in a couple of days, which will outline how to do this.]*
 Once the foundation is clear, resisting pressure becomes effortless instead of exhausting.
+I'll add a link to the next blog here in a couple of days, which will outline how to do this.
 
 ### Step 2: Filter External Advice
 
