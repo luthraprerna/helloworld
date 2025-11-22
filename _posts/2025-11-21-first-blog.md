@@ -126,3 +126,6 @@ If you follow this, your life will become **pressure-free and dog-free** but at 
 When that moment comes, embrace Dwarika Prasad Maheshwari’s poem:
 **“Veer tum badhe chalo, Dheer tum badhe chalo.”**  
 *(Translation: “Brave one, keep marching forward! Patient one, keep moving ahead!”)*
+
+
+PS: All dialogues in this blog are real - either picked up from real life coversations or movies.
