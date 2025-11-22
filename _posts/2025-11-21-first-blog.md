@@ -119,7 +119,7 @@ My mom looked at me and said:
 
 Guess you got the message.
 
-## ⚠️ WARNING
+## !!!! WARNING !!!!
 
 If you follow this, your life will become **pressure-free and dog-free** but at the same time, be ready to sometimes **stand alone**.
 
