@@ -4,7 +4,7 @@ title: "Blog 1: Carving Your Own Path in a World of Followers"
 categories: blog
 ---
 
-I’ve been talking to friends and colleagues recently, and their struggles with life decisions really stood out.
+<!-- I’ve been talking to friends and colleagues recently, and their struggles with life decisions really stood out.
 
 One friend wants to stay underground with his startup. He’s not in a rush to raise money because he wants to understand the market fully. Yet, whenever he talks to people, the question is always, **“When will you raise money?”** The pressure to follow a predefined timeline weighs heavily on him.
 
@@ -130,4 +130,4 @@ When that moment comes, embrace Dwarika Prasad Maheshwari’s poem:
 *(Translation: “Brave one, keep marching forward! Patient one, keep moving ahead!”)*
 
 
-PS: All dialogues in this blog are real - either picked up from real life coversations or movies.
+PS: All dialogues in this blog are real - either picked up from real life coversations or movies. -->
