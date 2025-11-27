@@ -10,14 +10,14 @@ title: Home
 
 👋 **Hi, I'm Prerna.** I work where AI, research, product, and creativity intersect — turning ideas into systems and frameworks that help people and organizations see the world differently. I thrive on out-of-the-box approaches that uncover hidden patterns, spark fresh insights, and challenge conventional thinking.
 
-I began as a software engineer at **IBM Watson** in New York City (2016–2023), then wandered into academia as a researcher at **New York University** (2023–2024). Eventually I packed my bags and moved ~7,800 miles to India (and no, not because of Trump 😅). Now you’ll find me in Bengaluru as an **Entrepreneur-in-Residence at Evam Labs**.  
+<!-- I began as a software engineer at **IBM Watson** in New York City (2016–2023), then wandered into academia as a researcher at **New York University** (2023–2024). Eventually I packed my bags and moved ~7,800 miles to India (and no, not because of Trump 😅). Now you’ll find me in Bengaluru as an **Entrepreneur-in-Residence at Evam Labs**.   -->
 
-
-### 👉 See my [Research Projects & Frameworks](/helloworld/projects).
 
 ### 🎉 Check out my [Random Fun Stuff](/helloworld/random/) page of random videos/hobby dump.
 
 ### 🚀 Check out some [Product Feature Demos](/helloworld/product/) I created
+
+### 👉 See my [Research Projects & Frameworks](/helloworld/projects).
 
 <!-- - 📍 Location: Bengaluru, India / Delhi, India
 - ✉️ Email: prernaluthra996@gmail.com
