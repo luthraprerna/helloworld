@@ -4,7 +4,7 @@ title: "Blog 1: Carving Your Own Path in a World of Followers"
 categories: blog
 ---
 
-<!-- I’ve been talking to friends and colleagues recently, and their struggles with life decisions really stood out.
+I’ve been talking to friends and colleagues recently, and as I listened to them share their struggles, I found some interesting insights about society in general.
 
 One friend wants to stay underground with his startup. He’s not in a rush to raise money because he wants to understand the market fully. Yet, whenever he talks to people, the question is always, **“When will you raise money?”** The pressure to follow a predefined timeline weighs heavily on him.
 
@@ -17,11 +17,13 @@ She says, **“Yaar, meri umar ho rahi hai, sab pooch rahe hain, parents ka bhi 
 An older relative recently resigned from her job. She doesn’t feel the need to immediately find another one - she wants time off. She’s fully independent, financially stable, and can support her child. Yet her colleagues ask, **“Oh you've not found your next step? Career breaks aren't ideal”** 
 Suddenly, she doubts herself, wondering, **“What if they’re right?”**
 
-### Here’s what becomes clear
+#### Here’s what becomes clear
 
-Most people are following a script - school → job → marriage → kids → milestones → repeat. Society, peers, family, and social media constantly reinforce it. If you don’t bend to their notions, they’ll try to make you bend.
+There’s a YOU path, and there’s a ME path that one can take in life. There’s always a conventional script: getting married at a certain age, raising money because “that’s what startups do”, sticking to a single career instead of exploring, or avoiding career breaks because of how they’re perceived. These scripts exist everywhere, and if you follow the repeatable playbook, it’s unlikely you’ll fail because the path is well-defined.
 
-To those who try especially hard to bend others, I want to ask:
+Think of it like going on a trek: there’s the commercialized route and the unknown trail. The commercial path exists for a reason: it’s safe, familiar, and has food joints and clear walking trails. The unknown path usually comes with its own challenges: it’s uncertain, after all but it opens you up to serendipity and lifelong learnings, whether good or bad.
+
+There’s nothing wrong with either path. But I do detest when people who choose the commercialized path try to force others to follow it—or judge those who don’t. To those who try especially hard to bend others, I want to ask:
 
 <p align="center">
   <img src="/helloworld/assets/blog1_1.gif" alt="Geet from the movie Jab We Met">
@@ -37,12 +39,10 @@ To those who try especially hard to bend others, I want to ask:
 **“Good… kyunki chillar nahi hai mere pass.”**  
 *(Translation: “Good… because I don’t have loose change.”)*
 
-## Embrace Your Eccentricity
-
 The world is massive, with billions of people - each with different traits, upbringing, psychology, wiring, and influences. Yet somehow, everyone is expected to follow the **exact same script**.
 
 I once asked a professor (a very famous one; I’ll share the name after getting permission),  
-**“Sir, what’s unique about people who are creative and innovative?”**  
+**“Sir, what’s unique about people who are extremely creative, original and innovative?”**  
 He said, **“Pagal hote hain thode.”**  
 *(Translation: “They’re a little crazy.”)*
 
@@ -50,12 +50,22 @@ So my request to you:
 **“Thode pagal bano. Embrace Your Eccentricity”**  
 *(Translation: “Be a little crazy. Embrace Your Eccentricity.”)*
 
-*Have the courage to walk your own path.*
+Walking the ME path is never easy. Embracing your own eccentricity comes with its own challenges. But at the end of the day, it’s your life and it really comes down to one question:
 
-And just to be clear - in this blog, I am not going to talk about why society judges you or any such cliché explanations.
-**In this blog I’m here to tell you *how to resist pressure*.**
+**Will you regret not walking the ME path in this lifetime?**
+
+Most of the struggle comes from not being able to resist social pressure, staying firm in your own judgment, and trusting that wherever the ME path takes you, at least it’s yours. And if nothing “successful” comes out of it, then maybe you’ll just end up with a lifetime of BREAKING BAD “ME” stories to share with your grandkids (if you decide to have them), or maybe a few “Breaking Bad” style friends you meet along the way.
+
+The biggest blocker I’ve seen - the thing that stops most people from choosing the ME path is giving into to the societal playbook and the fear of trusting our own selves.
+
+In this blog, I’ll start off by telling you how to resist social pressure.
 
 # How to Resist Social Pressure
+
+### Step 0: Memorize this song by heart
+
+"Kuch to log kahenge, logon ka kaam hai kehna. Chhodo bekaar ki baaton mein kahin beet na jaaye re na." — Kishore Kumar
+*(Translation: "People will always talk, it’s their job to talk. Let go of useless chatter, or your whole night will slip away worrying about it." — Kishore Kumar)*
 
 ### Step 1: Know Your Core
 
@@ -100,7 +110,7 @@ reply: **“Sir, main yahan kisi ko maze dene nahi aayi.”**
 If someone says, **“Others are raising money faster than you,”**  
 reply: **“You seem really worried. How about putting at least a million dollars into my company?”**
 
-**Mic-drop. Silence. Game over.**
+**Mic-drop. Silence. **
 
 Savage humor protects your sanity and sets boundaries without aggression.
 
@@ -130,4 +140,4 @@ When that moment comes, embrace Dwarika Prasad Maheshwari’s poem:
 *(Translation: “Brave one, keep marching forward! Patient one, keep moving ahead!”)*
 
 
-PS: All dialogues in this blog are real - either picked up from real life coversations or movies. -->
+PS: All dialogues in this blog are real - either picked up from real life coversations or movies.
