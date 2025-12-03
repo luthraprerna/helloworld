@@ -56,9 +56,9 @@ Walking the ME path is never easy. Embracing your own eccentricity comes with it
 
 Most of the struggle comes from not being able to resist social pressure, staying firm in your own judgment, and trusting that wherever the ME path takes you, at least it’s yours. And if nothing “successful” comes out of it, then maybe you’ll just end up with a lifetime of BREAKING BAD “ME” stories to share with your grandkids (if you decide to have them), or maybe a few “Breaking Bad” style friends you meet along the way.
 
-The biggest blocker I’ve seen - the thing that stops most people from choosing the ME path is giving into to the societal playbook and the fear of trusting our own selves.
+The biggest blocker I’ve seen - the thing that stops most people from choosing the ME path is giving into to the societal playbook and the fear of trusting their own selves.
 
-In this blog, I’ll start off by telling you how to resist social pressure.
+In this blog, I’ll start off by telling you how to resist social pressure - the first step towards your ME path.
 
 ## How to Resist Social Pressure
 
@@ -117,8 +117,7 @@ Savage humor protects your sanity and sets boundaries without aggression.
 #### Final Conclusion
 
 Resisting social pressure isn’t arrogance. It’s clarity. It’s courage. It’s self-respect. The world will always impose scripts, timelines, and expectations, but the most fulfilling life is the one you carve intentionally.
-
-**Embrace your madness. Trust your compass. Walk your weird path.**
+Embrace your madness. Trust your compass. Walk your weird ME path.
 
 #### Words of Gold From My Mother
 
