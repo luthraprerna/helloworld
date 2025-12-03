@@ -23,7 +23,7 @@ There’s a YOU path, and there’s a ME path that one can take in life. There�
 
 Think of it like going on a trek: there’s the commercialized route and the unknown trail. The commercial path exists for a reason: it’s safe, familiar, has food joints and clear walking trails. The unknown path usually comes with its own challenges: it’s uncertain, after all but it opens you up to serendipity and lifelong learnings, whether good or bad.
 
-There’s nothing wrong with either path. But I do detest when people who try to force others to follow a commercialized path, or judge those who don’t. To those who try especially hard to bend others, I want to ask:
+There’s nothing wrong with either path. But I do detest people who try to force others to follow a commercialized path, or judge those who don’t. To those who try especially hard to bend others, I want to ask:
 
 <p align="center">
   <img src="/helloworld/assets/blog1_1.gif" alt="Geet from the movie Jab We Met">
