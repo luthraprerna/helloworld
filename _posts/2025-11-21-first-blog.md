@@ -110,7 +110,7 @@ reply: **“Sir, main yahan kisi ko maze dene nahi aayi.”**
 If someone says, **“Others are raising money faster than you,”**  
 reply: **“You seem really worried. How about putting at least a million dollars into my company?”**
 
-**Mic-drop. Silence. **
+**!!!! Mic-drop !!!! Silence !!!!**
 
 Savage humor protects your sanity and sets boundaries without aggression.
 
