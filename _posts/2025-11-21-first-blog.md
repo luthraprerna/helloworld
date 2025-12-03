@@ -60,11 +60,12 @@ The biggest blocker I’ve seen - the thing that stops most people from choosing
 
 In this blog, I’ll start off by telling you how to resist social pressure.
 
-# How to Resist Social Pressure
+## How to Resist Social Pressure
 
 ### Step 0: Memorize this song by heart
 
 "Kuch to log kahenge, logon ka kaam hai kehna. Chhodo bekaar ki baaton mein kahin beet na jaaye re na." — Kishore Kumar
+
 *(Translation: "People will always talk, it’s their job to talk. Let go of useless chatter, or your whole night will slip away worrying about it." — Kishore Kumar)*
 
 ### Step 1: Know Your Core
@@ -77,7 +78,6 @@ Figure out who you are internally not externally. Examples:
 * I value money, creativity, or adventure.
 
 Define the values you will *never* change to please others. *[I'll add a link to the next blog here in a couple of days, which will outline how to do this.]*
-
 Once the foundation is clear, resisting pressure becomes effortless instead of exhausting.
 
 
@@ -114,15 +114,13 @@ reply: **“You seem really worried. How about putting at least a million dollar
 
 Savage humor protects your sanity and sets boundaries without aggression.
 
-## Final Conclusion
+#### Final Conclusion
 
-Resisting social pressure isn’t arrogance. It’s clarity. It’s courage. It’s self-respect.
-
-The world will always impose scripts, timelines, and expectations, but the most fulfilling life is the one you carve intentionally.
+Resisting social pressure isn’t arrogance. It’s clarity. It’s courage. It’s self-respect. The world will always impose scripts, timelines, and expectations, but the most fulfilling life is the one you carve intentionally.
 
 **Embrace your madness. Trust your compass. Walk your weird path.**
 
-## Words of Gold From My Mother
+#### Words of Gold From My Mother
 
 When I was learning to drive, I wasn’t perfect, and people kept honking. I panicked.  
 My mom looked at me and said:
@@ -131,7 +129,7 @@ My mom looked at me and said:
 
 Guess you got the message.
 
-## !!!! WARNING !!!!
+#### !!!! WARNING !!!!
 
 If you follow this, your life will become **pressure-free and dog-free** but at the same time, be ready to sometimes **stand alone**.
 
