@@ -21,9 +21,9 @@ Suddenly, she doubts herself, wondering, **“What if they’re right?”**
 
 There’s a YOU path, and there’s a ME path that one can take in life. There’s always a conventional script: getting married at a certain age, raising money because “that’s what startups do”, sticking to a single career instead of exploring, or avoiding career breaks because of how they’re perceived. These scripts exist everywhere, and if you follow the repeatable playbook, it’s unlikely you’ll fail because the path is well-defined.
 
-Think of it like going on a trek: there’s the commercialized route and the unknown trail. The commercial path exists for a reason: it’s safe, familiar, and has food joints and clear walking trails. The unknown path usually comes with its own challenges: it’s uncertain, after all but it opens you up to serendipity and lifelong learnings, whether good or bad.
+Think of it like going on a trek: there’s the commercialized route and the unknown trail. The commercial path exists for a reason: it’s safe, familiar, has food joints and clear walking trails. The unknown path usually comes with its own challenges: it’s uncertain, after all but it opens you up to serendipity and lifelong learnings, whether good or bad.
 
-There’s nothing wrong with either path. But I do detest when people who choose the commercialized path try to force others to follow it—or judge those who don’t. To those who try especially hard to bend others, I want to ask:
+There’s nothing wrong with either path. But I do detest when people who try to force others to follow a commercialized path, or judge those who don’t. To those who try especially hard to bend others, I want to ask:
 
 <p align="center">
   <img src="/helloworld/assets/blog1_1.gif" alt="Geet from the movie Jab We Met">
