@@ -117,7 +117,7 @@ Savage humor protects your sanity and sets boundaries without aggression.
 ### Final Conclusion
 
 Resisting social pressure isn’t arrogance. It’s clarity. It’s courage. It’s self-respect. The world will always impose scripts, timelines, and expectations, but the most fulfilling life is the one you carve intentionally.
-Embrace your madness. Trust your compass. Walk your weird ME path.
+So .... Trust your compass. Walk your weird ME path.
 
 ### Words of Gold From My Mother
 
