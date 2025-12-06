@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Blog 1: Carving Your Own Path in a World of Followers"
-original_link: https://prernaluthra.substack.com/p/carving-your-own-path-in-a-world
+date: 2025-11-21
 categories: blog
+original_link: "https://prernaluthra.substack.com/p/carving-your-own-path-in-a-world"
 ---
 
 I’ve been talking to friends and colleagues recently, and as I listened to them share their struggles, I found some interesting insights about society in general.

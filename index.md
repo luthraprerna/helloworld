@@ -28,22 +28,25 @@ title: Home
 - 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)   -->
 ---
 
-## 📝 Latest Blog Posts
+### 📝 Latest Blog Posts
 
-<ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span> — {{ post.date | date: "%b %d, %Y" }}</span>
-    {% if post.original_link %}
-      · <a href="{{ post.original_link }}" target="_blank">Substack</a>
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
+<div style="font-size: 1.2em; line-height: 1.6;">
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span> — {{ post.date | date: "%b %d, %Y" }}</span>
+      {% if post.original_link %}
+        · <a href="{{ post.original_link }}" target="_blank">Substack</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
 
 ---
-## 📬 Subscribe for Updates
+### 📬 Subscribe for Updates
 
 Stay in the loop with my latest blog posts and insights on Substack 
 
