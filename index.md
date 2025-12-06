@@ -19,15 +19,6 @@ title: Home
 
 ### 👉 See my [Research Projects & Frameworks](/helloworld/projects).
 
-<!-- - 📍 Location: Bengaluru, India / Delhi, India
-- ✉️ Email: prernaluthra996@gmail.com
-- 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2)  
-- 🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
-- 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
-- 🐦 X: [@preluthra](https://x.com/preluthra)
-- 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)   -->
----
-
 ### 📝 Latest Blog Posts
 
 <div style="font-size: 1.2em; line-height: 1.6;">
@@ -43,9 +34,17 @@ title: Home
   </ul>
 </div>
 
-> 📬 Subscribe for Updates
-> Stay in the loop with my latest blog posts and insights on Substack 
+> 📬 Stay in the loop with my latest blog posts and insights on **Substack** 
 
 <div style="text-align:center; margin-top:1em;">
   <a href="https://prernaluthra.substack.com/" target="_blank" style="display:inline-block; margin:0.5em; padding:0.6em 1.2em; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Subscribe via Email</a>
 </div>
+
+
+📍 Location: Bengaluru, India / Delhi, India
+- ✉️ Email: prernaluthra996 [at] gmail [dot] com
+- 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2)  
+- 🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
+- 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
+- 🐦 X: [@preluthra](https://x.com/preluthra)
+- 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)
