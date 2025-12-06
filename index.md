@@ -41,7 +41,6 @@ title: Home
 </div>
 
 
-📍 Location: Bengaluru, India / Delhi, India
 - ✉️ Email: prernaluthra996 [at] gmail [dot] com
 - 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2)  
 - 🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
