@@ -40,7 +40,7 @@ title: Home
   <a href="https://prernaluthra.substack.com/" target="_blank" style="display:inline-block; margin:0.5em; padding:0.6em 1.2em; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Subscribe via Email</a>
 </div>
 
-
+### 💃 Socials
 - ✉️ Email: prernaluthra996 [at] gmail [dot] com
 - 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2) 
 - 📝 Substack: [prernaluthra](https://prernaluthra.substack.com/) 
