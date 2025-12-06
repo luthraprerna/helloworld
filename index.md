@@ -42,8 +42,9 @@ title: Home
 
 
 - ✉️ Email: prernaluthra996 [at] gmail [dot] com
-- 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2)  
-- 🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
-- 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
+- 💼 LinkedIn: [prerna-luthra-357009a2](https://www.linkedin.com/in/prerna-luthra-357009a2) 
+- 📝 Substack: [prernaluthra](https://prernaluthra.substack.com/) 
 - 🐦 X: [@preluthra](https://x.com/preluthra)
 - 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)
+- 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
+- -🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
