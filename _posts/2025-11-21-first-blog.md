@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Blog 1: Carving Your Own Path in a World of Followers"
+original_link: https://prernaluthra.substack.com/p/carving-your-own-path-in-a-world
 categories: blog
 ---
 
