@@ -26,3 +26,15 @@ title: Home
 - 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
 - 🐦 X: [@preluthra](https://x.com/preluthra)
 - 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)   -->
+
+---
+## 📬 Subscribe for Updates
+
+Stay in the loop with my latest blog posts and insights. Choose your preferred way to follow:  
+
+<div style="text-align:center; margin-top:1em;">
+  <a href="https://prernaluthra.substack.com/" target="_blank" style="display:inline-block; margin:0.5em; padding:0.6em 1.2em; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Subscribe via Email</a>
+  <a href="https://prernaluthra.substack.com/feed" target="_blank" style="display:inline-block; margin:0.5em; padding:0.6em 1.2em; background-color:#22a699; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Subscribe via RSS</a>
+</div>
+
+<small style="display:block; text-align:center; margin-top:0.5em;">Click the RSS link to add my blog to your favorite RSS reader.</small>
