@@ -33,22 +33,18 @@ title: Home
 <div style="font-size: 1.2em; line-height: 1.6;">
   <ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span> — {{ post.date | date: "%b %d, %Y" }}</span>
-      {% if post.original_link %}
-        · <a href="{{ post.original_link }}" target="_blank">Substack</a>
-      {% endif %}
-    </li>
+    {% if post.original_link %}
+      <li>
+        <a href="{{ post.original_link }}" target="_blank">{{ post.title }}</a>
+        <span> — {{ post.date | date: "%b %d, %Y" }}</span>
+      </li>
+    {% endif %}
   {% endfor %}
   </ul>
 </div>
 
-
----
-### 📬 Subscribe for Updates
-
-Stay in the loop with my latest blog posts and insights on Substack 
+> 📬 Subscribe for Updates
+> Stay in the loop with my latest blog posts and insights on Substack 
 
 <div style="text-align:center; margin-top:1em;">
   <a href="https://prernaluthra.substack.com/" target="_blank" style="display:inline-block; margin:0.5em; padding:0.6em 1.2em; background-color:#007acc; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">Subscribe via Email</a>
