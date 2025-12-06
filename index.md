@@ -47,4 +47,4 @@ title: Home
 - 🐦 X: [@preluthra](https://x.com/preluthra)
 - 📸 Instagram: [@prernaluthra](https://instagram.com/prernaluthra)
 - 💻 GitHub: [@luthraprerna](https://github.com/luthraprerna)  
-- -🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
+- 🎓 Google Scholar: [Prerna Luthra](https://scholar.google.com/citations?user=d7j2BMcAAAAJ&hl=en)
