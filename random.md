@@ -17,7 +17,7 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
       <img src="/helloworld/assets/thumb1.png" width="200" style="border-radius:12px">
     </a>
     <figcaption style="font-size:0.9em; margin-top:5px;">
-      A fun video I made as an intro to a skit we did at IIMA on the Mahabharat. I remember how much fun I had using RunwayML to create it. A core challenge was trying to match the authentic voice - like if you notice the English accent at the end, I didn’t want Krishna to sound American 😅. I’m so proud of how authentic it turned out.
+      Jan. 2025: A fun video I made as an intro to a skit we did at IIMA on the Mahabharat. I remember how much fun I had using RunwayML to create it. A core challenge was trying to match the authentic voice - like if you notice the English accent at the end, I didn’t want Krishna to sound American 😅. I’m so proud of how authentic it turned out.
     </figcaption>
   </figure>
 
@@ -26,7 +26,7 @@ Welcome to my little corner of curiosities — videos, AI art experiments, and o
       <img src="/helloworld/assets/thumb2.png" width="200" style="border-radius:12px">
     </a>
     <figcaption style="font-size:0.9em; margin-top:5px;">
-      A short video for the Make My Trip feature pitch I created. As the tagline says: "The best journeys are the ones you never knew existed!"
+      Feb. 2025: A short video for the Make My Trip feature pitch I created. As the tagline says: "The best journeys are the ones you never knew existed!"
     </figcaption>
   </figure>
 </div>
